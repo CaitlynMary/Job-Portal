@@ -116,7 +116,7 @@ const [applicants, setApplicants] = useState(false)
                                 <span>{applicant.userId.name}</span>
                             </td>
                             <td className='py-2 px-4 border-b max-sm:hidden'>
-                                {applicant.jobId.jobTitle}
+                                {applicant.jobId.title}
                             </td>
                             <td className='py-2 px-4 border-b max-sm:hidden'>{applicant.jobId.location}</td>
                             <td className='py-2 px-4 border-b'>
