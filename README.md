@@ -50,5 +50,9 @@ This is a **full-stack job portal web application** built using the **MERN stack
 🔹 Deployed and live on Vercel.
 
 ---
+## 🌐 Deployment
+
+The project is live and can be accessed at:  
+👉 **[Job Portal Live Site](https://job-portal-new-client-mu.vercel.app/)** 
 
 
